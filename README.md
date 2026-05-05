@@ -1,5 +1,5 @@
 # AI App Generator
-
+Demo: Run locally at http://127.0.0.1:8000/ui
 This project converts natural language into structured application configurations using a multi-stage pipeline.
 
 ## Pipeline
